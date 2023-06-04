@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  font-size: 18px;
+  background-color: aqua;
+}
+
+h1 {
+  text-align: center;
+  font-family: cursive;
+}
+
+button {
+  margin-top: 40px;
+  width: 80px;
+  height: 40px;
+  font-size: 18px;
+  border-radius: 20px;
+}
+
+#quiz {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.answers{
+  display: flex;
+  flex-direction: column;
+}
+
+#result {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#result img {
+  max-width: 500px;
+  height: auto;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+
+#result h4 {
+  margin-top: 10px;
+}
+
